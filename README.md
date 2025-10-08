@@ -12,7 +12,7 @@ It consists of two main parts:
 | [`SomapaTestAPI`](https://github.com/NaphatTor/SomapaTestAPI.git) | Spring Boot RESTful API for file upload and validation |
 | [`SomapaTestUI`](https://github.com/NaphatTor/SomapaTestUI.git) | Angular frontend for uploading files and displaying validation results |
 
-## Tech Stack - Backend (API)
+## Tech Stack [Backend (API)]
 - Java 17+
 - Spring Boot
 - Maven
